@@ -1,2 +1,2 @@
 # CultureJournal
-Personal tracking of watched works that focuses on experience and journal entries
+Personal, non-commercial Android app for privately tracking movies, TV series, books and games.
